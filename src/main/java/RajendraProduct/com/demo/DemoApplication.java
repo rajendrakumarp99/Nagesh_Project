@@ -13,6 +13,7 @@ public class DemoApplication {
 
 		Strung name1="Ramesh";
 		int x=100;
+		String name="Gopal";
 
 		String name1="Ramesh";
 		
