@@ -14,12 +14,19 @@ public class DemoApplication {
 		Strung name1="Ramesh";
 		int x=100;
 		String name="Gopal";
+
 String name111="Kumar";
+
+		String name22="Nagesh";
+
+
 		String name1="Ramesh";
 		
 		
 
 		
+		
+		int w=111;
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
