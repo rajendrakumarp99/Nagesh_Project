@@ -15,7 +15,7 @@ public class DemoApplication {
 		int x=100;
 
 		String name1="Ramesh";
-		String name3="kumar";
+		
 		
 
 		
