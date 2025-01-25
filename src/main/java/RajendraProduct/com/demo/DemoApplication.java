@@ -10,7 +10,15 @@ public class DemoApplication {
 		int i=10;
 		int j=20;
 		String name="Rajendra";
+
 		Strung name1="Ramesh";
+		int x=100;
+		String name="Gopal";
+
+		String name1="Ramesh";
+		
+		
+
 		
 		
 		int w=111;
