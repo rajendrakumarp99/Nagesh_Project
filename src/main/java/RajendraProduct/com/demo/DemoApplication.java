@@ -10,7 +10,9 @@ public class DemoApplication {
 		int i=10;
 		int j=20;
 		String name="Rajendra";
-		Strung name1="Ramesh";
+		String name1="Ramesh";
+		String name3="kumar";
+		
 		
 		SpringApplication.run(DemoApplication.class, args);
 	}
