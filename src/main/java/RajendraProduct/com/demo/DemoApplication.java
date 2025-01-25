@@ -11,6 +11,7 @@ public class DemoApplication {
 		int j=20;
 		String name="Rajendra";
 		Strung name1="Ramesh";
+		int x=100;
 		
 		SpringApplication.run(DemoApplication.class, args);
 	}
